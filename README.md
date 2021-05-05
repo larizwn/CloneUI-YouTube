@@ -11,7 +11,7 @@ Neste projeto foi criado uma clonagem de interface do YouTube.
 ## Modo light:
 <img src="/print1.PNG"/>
 
-## Site em modo dark:
+## Modo dark:
 <img src="/print2.PNG"/>
 
 
