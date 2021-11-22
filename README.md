@@ -1,12 +1,12 @@
 # Clone Interface do Youtube 🖥
 
-Neste projeto foi criado uma clonagem de interface do YouTube.
+Neste projeto foi criado uma clonagem da interface do YouTube.
+(Front-end)
 
 ## Aplicações:
 * [Visual Studio Code](https://code.visualstudio.com/download) 
 * [Material - UI](https://material-ui.com/pt/)
 * [React](https://pt-br.reactjs.org/)
-
 
 ## Modo light:
 <img src="/print1.PNG"/>
